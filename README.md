@@ -1,5 +1,3 @@
-# Evidence vstupu – zadání
-
 ## Popis
 
 Naprogramujte modul pro evidenci vstupu a výstupu osob pomocí čipových karet.
